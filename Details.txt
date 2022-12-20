@@ -1,0 +1,25 @@
+Node -Runs js
+Express-Creates a server
+npm-imports libraries /packages from internet
+API- Small functionalites or features
+npm init -Created/Initialised our repo
+npm install express -Install express
+PORT- number that refers to something machines listening for request
+
+API are not case sensitive
+2 ways of calling api : 
+1)/myapi?value=100 (not really required to know about the oarameter 
+, since ut takes the query in key value pair so , we can put many parameter as possible )
+ ex:flipcart.com/result?search_query=backend & color=red & price=below 2000
+2)/myapi/100-   (Easy to visit the url) ex: 1)github.com/shubham 2017
+                                            2)youtube.com/shubhamgaurav
+
+package.json
+
+Metadata
+scripts
+dependencies
+
+
+
+
